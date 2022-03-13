@@ -1,8 +1,8 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Udemy-blueviolet)
 
 # Stocks
 
-> It is an app I built while taking the ["Advanced CSS and Sass"](https://www.udemy.com/course/advanced-css-and-sass/) course by [Jonas Schmedtmann](https://www.udemy.com/course/advanced-css-and-sass/#instructor-1). This is a hotel booking website, and the main goal for this project is to upgrade my Flexbox and CSS animations knowledge.
+> It is an app I built while taking the ["Advanced CSS and Sass"](https://www.udemy.com/course/advanced-css-and-sass/) course by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). This is a hotel booking website, and the main goal for this project is to upgrade my Flexbox and CSS animations knowledge.
 
 <p align="center">
   <img src="./img/demo-desktop.gif" width="600">
@@ -18,7 +18,7 @@
 
 ## Live Demo
 
-- [Click here to see a live version on Netlify!](https://peaceful-elion-dffb9b.netlify.app)
+- [Click here to see a live version on Netlify!](https://brave-beaver-9e7959.netlify.app)
 
 ## Getting Started
 
