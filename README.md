@@ -2,7 +2,7 @@
 
 # Stocks
 
-> It is an app I built while taking the ["Advanced CSS and Sass"](https://www.udemy.com/course/advanced-css-and-sass/) course by [Jonas Schmedtmann](https://www.udemy.com/course/advanced-css-and-sass/#instructor-1). This is a hotel booking website, and the main goal for this project is to upgrade my Flexbox and CSS animations knowledge.
+> It is an app I built while taking the ["Advanced CSS and Sass"](https://www.udemy.com/course/advanced-css-and-sass/) course by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). This is a hotel booking website, and the main goal for this project is to upgrade my Flexbox and CSS animations knowledge.
 
 <p align="center">
   <img src="./img/demo-desktop.gif" width="600">
