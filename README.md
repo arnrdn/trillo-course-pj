@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Udemy-blueviolet)
 
 # Stocks
 
@@ -18,7 +18,7 @@
 
 ## Live Demo
 
-- [Click here to see a live version on Netlify!](https://peaceful-elion-dffb9b.netlify.app)
+- [Click here to see a live version on Netlify!](https://brave-beaver-9e7959.netlify.app)
 
 ## Getting Started
 
