@@ -5,10 +5,10 @@
 > It is an app I built while taking the ["Advanced CSS and Sass"](https://www.udemy.com/course/advanced-css-and-sass/) course by [Jonas Schmedtmann](https://github.com/jonasschmedtmann). This is a hotel booking website, and the main goal for this project is to upgrade my Flexbox and CSS animations knowledge.
 
 <p align="center">
-  <img src="./img/demo-desktop.gif" width="600">
+  <img src="./img/demo-desktop1.gif" width="600">
 </p>
 <p align="center">
-  <img src="./img/demo-mobile.gif" width="300">
+  <img src="./img/demo-mobile1.gif" width="300">
 </p>
 
 ## Built With
